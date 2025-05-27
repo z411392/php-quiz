@@ -1,0 +1,15 @@
+{
+    "name": "z411392/php-quiz",
+    "autoload": {
+        "psr-4": {
+            "z411392\\PhpQuiz\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "z411392",
+            "email": "z411392@gmail.com"
+        }
+    ],
+    "require": {}
+}
